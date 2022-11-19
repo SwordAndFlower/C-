@@ -1,0 +1,3 @@
+﻿  sanziqi.c
+H:\code\c\test_in_22_11_19\sanziqi.c(268): warning C4715: “IsWin”: 不是所有的控件路径都返回值
+  test_in_22_11_19.vcxproj -> H:\code\c\test_in_22_11_19\x64\Debug\test_in_22_11_19.exe
